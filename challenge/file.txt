@@ -1,0 +1,5 @@
+    Line       User       Host(s)              Idle       Location
+   0 con 0                idle                 00:15:49   
+*  2 vty 0     edem       idle                 00:00:00 192.168.123.1
+
+  Interface    User               Mode         Idle     Peer Address
